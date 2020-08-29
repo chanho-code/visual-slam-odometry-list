@@ -11,7 +11,6 @@
 - [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2)[TRO'17]
 - [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3)[arXiv'20]
 - [SVO](https://github.com/uzh-rpg/rpg_svo)[ICRA'14]
-- [SVO2]
 - [DSO](https://github.com/JakobEngel/dso_ros)[PAMI'18]
 - [LDSO](https://github.com/tum-vision/LDSO)[IROS'18]
 
@@ -21,3 +20,11 @@
 - [VINS-mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)[TRO, IROS'18]
 - [VINS-fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion)
 - [Kimera](https://github.com/MIT-SPARK/Kimera)[ICRA'20]
+
+- [SPM-SLAM]
+- [Uco-SLAM]
+- [TagSLAM]
+
+Survey
+- input: stereo, rgb-d, inertial, fishehe camera
+- feature(point, line)
