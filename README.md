@@ -38,12 +38,12 @@ To do...
 - feature(point, line, ...), direct, ...
 - deep learning based
 
-## datasets
+## Datasets
 | Title | Paper | Year | datasets |
 |-|-|-|-|
 | EuRoC MAV Dataset | | 2016 | [datasets](https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets) |
 | TUM-Mono | | 2016 | [datasets](https://vision.in.tum.de/data/datasets/mono-dataset) |
 | TUM-RGBD | | 2012 | [datasets](https://vision.in.tum.de/data/datasets/rgbd-dataset) |
 | TUM-Visual-Inertial | | 2018 | [datasets](https://vision.in.tum.de/data/datasets/visual-inertial-dataset) |
-| KITTI | | | 2013 [datasets](http://www.cvlibs.net/datasets/kitti/index.php) |
+| KITTI | | 2013 | [datasets](http://www.cvlibs.net/datasets/kitti/index.php) |
 | ICL-NUIM | | 2014 | [datasets](https://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html) |
