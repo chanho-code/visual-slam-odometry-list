@@ -1,7 +1,10 @@
 # The list of visual SLAM and visual odometry methods
 
+This memo is organized for personal use.
+
 ## Index
 * [Projects](#projects)
+* [Datasets](#datasets)
 
 ## Projects
 
@@ -34,3 +37,12 @@ To do...
 - input: stereo, rgb-d, inertial, fishehe camera
 - feature(point, line, ...), direct, ...
 - deep learning based
+
+## datasets
+| Title | Paper | Year | datasets |
+|-|-|-|-|
+| EuRoC MAV Dataset | | | [datasets](https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets) |
+| TUM-RGBD | | | [datsets](https://vision.in.tum.de/data/datasets/rgbd-dataset) |
+| TUM-Visual-Inertial | | | [datasets](https://vision.in.tum.de/data/datasets/visual-inertial-dataset) |
+| KITTI | | | [datsets](http://www.cvlibs.net/datasets/kitti/index.php) |
+| ICL-NUIM | | | [datasets](https://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html) |
