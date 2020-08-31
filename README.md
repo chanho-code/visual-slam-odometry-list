@@ -8,7 +8,7 @@ This memo is organized for personal use.
 
 ## Projects
 
-| Title | Paper | Method | Input | SLAM or VO | Relocalization | Loop closing | Year | Source Code |
+| Title | Paper | Method | Input | SLAM or VO | Localization | Loop close | Year | Source Code |
 |-|-|-|-|-|-|-|-|-|
 | PTAM | [Paper](https://ieeexplore.ieee.org/document/4538852) | feature | mono | SLAM | yes | | 2007 | [github](https://github.com/Oxford-PTAM/PTAM-GPL) |
 | LSD-SLAM | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-10605-2_54) | direct | mono, stereo | SLAM | | yes | 2013 | [github](https://github.com/tum-vision/lsd_slam) |
@@ -32,7 +32,7 @@ This memo is organized for personal use.
 | TagSLAM | [Paper](https://arxiv.org/abs/1910.00679) | marker | | SLAM | yes | yes | 2019 | [github](https://github.com/berndpfrommer/tagslam) |
 | ORB-YGZ-SLAM | | feature, direct | mono | SLAM | | yes | | [github](https://github.com/gaoxiang12/ORB-YGZ-SLAM) |
 | LCSD-SLAM | [Paper](https://arxiv.org/abs/1807.10073) | feature, direct | mono | SLAM | | yes | 2018 | [github](https://github.com/sunghoon031/LCSD_SLAM) |
-| DXSLAM | [paper](https://arxiv.org/abs/2008.05416) | feature(ORB-SLAM2, SuperPoint, NetVlad | | SLAM | | | 2020 | [github](https://github.com/ivipsourcecode/dxslam) |
+| DXSLAM | [paper](https://arxiv.org/abs/2008.05416) | feature(ORB-SLAM2, SuperPoint, NetVlad) | | SLAM | | | 2020 | [github](https://github.com/ivipsourcecode/dxslam) |
 
 To do...
 - input: stereo, rgb-d, inertial, fishehe camera
