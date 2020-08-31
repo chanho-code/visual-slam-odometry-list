@@ -32,6 +32,7 @@ This memo is organized for personal use.
 | TagSLAM | [Paper](https://arxiv.org/abs/1910.00679) | marker | | SLAM | yes | yes | 2019 | [github](https://github.com/berndpfrommer/tagslam) |
 | ORB-YGZ-SLAM | | feature, direct | mono | SLAM | | yes | | [github](https://github.com/gaoxiang12/ORB-YGZ-SLAM) |
 | LCSD-SLAM | [Paper](https://arxiv.org/abs/1807.10073) | feature, direct | mono | SLAM | | yes | 2018 | [github](https://github.com/sunghoon031/LCSD_SLAM) |
+| DXSLAM | [paper](https://arxiv.org/abs/2008.05416) | feature(ORB-SLAM2, SuperPoint, NetVlad | | SLAM | | | 2020 | [github](https://github.com/ivipsourcecode/dxslam) |
 
 To do...
 - input: stereo, rgb-d, inertial, fishehe camera
