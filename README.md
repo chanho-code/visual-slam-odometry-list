@@ -38,6 +38,8 @@ This memo is organized for personal use.
 | PL-SLAM(mono) | [paper](https://ieeexplore.ieee.org/document/7989522) | feature(point, line) | mono | SLAM | | | 2017 | [not official](https://github.com/HarborC/PL-SLAM) |
 | ORB-Line-SLAM | [paper](https://arxiv.org/abs/1708.03275) | feature(line) | | SLAM | | | 2018 | [github](https://github.com/shidahe/semidense-lines) |
 | Structure-SLAM | [paper](https://arxiv.org/abs/2008.01963) | feature(point, line) | mono | SLAM | | yes | 2020 | [github](https://github.com/yanyan-li/Structure-SLAM-PointLine) |
+| CNN-SLAM |
+| CNN-SVO |
 
 To do...
 - input: stereo, rgb-d, inertial, fishehe camera
