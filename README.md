@@ -34,7 +34,9 @@ This memo is organized for personal use.
 | ORB-YGZ-SLAM | | feature, direct | mono | SLAM | | yes | | [github](https://github.com/gaoxiang12/ORB-YGZ-SLAM) |
 | LCSD-SLAM | [Paper](https://arxiv.org/abs/1807.10073) | feature, direct | mono | SLAM | | yes | 2018 | [github](https://github.com/sunghoon031/LCSD_SLAM) |
 | DXSLAM | [paper](https://arxiv.org/abs/2008.05416) | feature(ORB-SLAM2, SuperPoint, NetVlad) | | SLAM | | | 2020 | [github](https://github.com/ivipsourcecode/dxslam) |
-| PL-SLAM | [paper](https://ieeexplore.ieee.org/abstract/document/8680013) | feature | stereo | SLAM | | yes | 2019 | [github](https://github.com/rubengooj/pl-slam) |
+| PL-SLAM(stereo) | [paper](https://ieeexplore.ieee.org/abstract/document/8680013) | feature | stereo | SLAM | | yes | 2019 | [github](https://github.com/rubengooj/pl-slam) |
+| PL-SLAM(mono) | [paper](https://ieeexplore.ieee.org/document/7989522) | feature | mono | SLAM | | | 2017 | [not official](https://github.com/HarborC/PL-SLAM) |
+| Semi-dense line SLAM | [paper](https://arxiv.org/abs/1708.03275) | | | SLAM | | 2018 | [github](https://github.com/shidahe/semidense-lines) |
 | Structure-SLAM | [paper](https://arxiv.org/abs/2008.01963) | feature | mono | SLAM | | yes | 2020 | [github](https://github.com/yanyan-li/Structure-SLAM-PointLine) |
 
 To do...
