@@ -36,7 +36,7 @@ This memo is organized for personal use.
 | DXSLAM | [paper](https://arxiv.org/abs/2008.05416) | feature(ORB-SLAM2, SuperPoint, NetVlad) | | SLAM | | | 2020 | [github](https://github.com/ivipsourcecode/dxslam) |
 | PL-SLAM(stereo) | [paper](https://ieeexplore.ieee.org/abstract/document/8680013) | feature | stereo | SLAM | | yes | 2019 | [github](https://github.com/rubengooj/pl-slam) |
 | PL-SLAM(mono) | [paper](https://ieeexplore.ieee.org/document/7989522) | feature | mono | SLAM | | | 2017 | [not official](https://github.com/HarborC/PL-SLAM) |
-| Semi-dense line SLAM | [paper](https://arxiv.org/abs/1708.03275) | | | SLAM | | 2018 | [github](https://github.com/shidahe/semidense-lines) |
+| ORB-Line-SLAM | [paper](https://arxiv.org/abs/1708.03275) | | | SLAM | | 2018 | [github](https://github.com/shidahe/semidense-lines) |
 | Structure-SLAM | [paper](https://arxiv.org/abs/2008.01963) | feature | mono | SLAM | | yes | 2020 | [github](https://github.com/yanyan-li/Structure-SLAM-PointLine) |
 
 To do...
