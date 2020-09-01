@@ -14,6 +14,7 @@ This memo is organized for personal use.
 | LSD-SLAM | [Paper](https://link.springer.com/chapter/10.1007/978-3-319-10605-2_54) | direct | mono, stereo | SLAM | | yes | 2013 | [github](https://github.com/tum-vision/lsd_slam) |
 | SVO | [Paper](https://ieeexplore.ieee.org/document/6906584) | direct | mono | VO | | | 2014 | [github](https://github.com/uzh-rpg/rpg_svo) |
 | SVO 2.0 | [Paper](https://ieeexplore.ieee.org/document/7782863) | direct | mono, stereo, fisheye | VO | | | 2016 | [github](https://github.com/symao/svo2) |
+| PL-SVO | [Paper](https://ieeexplore.ieee.org/document/7759620) | feature, direct | mono | VO | | | 2016 | [github](https://github.com/rubengooj/pl-svo) |
 | ORB-SLAM | [Paper](https://ieeexplore.ieee.org/document/7219438) | feature | mono | SLAM | yes | yes | 2015 | [github](https://github.com/raulmur/ORB_SLAM) |
 | ORB-SLAM2 | [Paper](https://ieeexplore.ieee.org/document/7946260) | feature | mono, stereo, rgb-d | SLAM | yes | yes | 2017 | [github](https://github.com/raulmur/ORB_SLAM2) |
 | ORB-SLAM3 | [Paper](https://arxiv.org/abs/2007.11898) | feature | mono, mono-imu, stereo, stereo-imu, rgb-d, rgb-d-imu, fisheye | SLAM | yes | yes | 2020 | [github](https://github.com/UZ-SLAMLab/ORB_SLAM3) |
@@ -33,6 +34,7 @@ This memo is organized for personal use.
 | ORB-YGZ-SLAM | | feature, direct | mono | SLAM | | yes | | [github](https://github.com/gaoxiang12/ORB-YGZ-SLAM) |
 | LCSD-SLAM | [Paper](https://arxiv.org/abs/1807.10073) | feature, direct | mono | SLAM | | yes | 2018 | [github](https://github.com/sunghoon031/LCSD_SLAM) |
 | DXSLAM | [paper](https://arxiv.org/abs/2008.05416) | feature(ORB-SLAM2, SuperPoint, NetVlad) | | SLAM | | | 2020 | [github](https://github.com/ivipsourcecode/dxslam) |
+| PL-SLAM | [paper](https://ieeexplore.ieee.org/abstract/document/8680013) | feature | stereo | SLAM | | yes | 2019 | [github](https://github.com/rubengooj/pl-slam) |
 
 To do...
 - input: stereo, rgb-d, inertial, fishehe camera
