@@ -35,6 +35,7 @@ This memo is organized for personal use.
 | LCSD-SLAM | [Paper](https://arxiv.org/abs/1807.10073) | feature, direct | mono | SLAM | | yes | 2018 | [github](https://github.com/sunghoon031/LCSD_SLAM) |
 | DXSLAM | [paper](https://arxiv.org/abs/2008.05416) | feature(ORB-SLAM2, SuperPoint, NetVlad) | | SLAM | | | 2020 | [github](https://github.com/ivipsourcecode/dxslam) |
 | PL-SLAM | [paper](https://ieeexplore.ieee.org/abstract/document/8680013) | feature | stereo | SLAM | | yes | 2019 | [github](https://github.com/rubengooj/pl-slam) |
+| Structure-SLAM | [paper](https://arxiv.org/abs/2008.01963) | feature | mono | SLAM | | yes | 2020 | [github](https://github.com/yanyan-li/Structure-SLAM-PointLine) |
 
 To do...
 - input: stereo, rgb-d, inertial, fishehe camera
