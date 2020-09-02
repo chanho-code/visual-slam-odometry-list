@@ -31,7 +31,8 @@ This memo is organized for personal use.
 | Kimera | [Paper](https://arxiv.org/abs/1910.02490) | shi tomasi + KLT | stereo-imu | VO | | yes | 2020 | [github](https://github.com/MIT-SPARK/Kimera) |
 | UcoSLAM | [Paper](https://arxiv.org/abs/1902.03729) | feature, marker | mono, stereo, rgb-d | SLAM | yes | yes | 2019 | [website](http://ucoslam.com/) |
 | TagSLAM | [Paper](https://arxiv.org/abs/1910.00679) | marker | | SLAM | yes | yes | 2019 | [github](https://github.com/berndpfrommer/tagslam) |
-| ORB-YGZ-SLAM | | feature(ORB-SLAM), direct(SVO) | mono | SLAM | | yes | | [github](https://github.com/gaoxiang12/ORB-YGZ-SLAM) |
+| ORB-YGZ-SLAM | | feature(ORB-SLAM), direct(SVO) | mono, mono-imu | SLAM | | yes | | [github](https://github.com/gaoxiang12/ORB-YGZ-SLAM) |
+| YGZ-Stereo-IMU SLAM | | feature(ORB-SLAM), direct(SVO) | stereo, stereo-imu | SLAM | | yes | | [github](https://github.com/gaoxiang12/ygz-stereo-inertial) |
 | LCSD-SLAM | [Paper](https://arxiv.org/abs/1807.10073) | feature(ORB-SLAM), direct(DSO) | mono | SLAM | | yes | 2018 | [github](https://github.com/sunghoon031/LCSD_SLAM) |
 | DXSLAM | [paper](https://arxiv.org/abs/2008.05416) | feature(ORB-SLAM, SuperPoint, NetVlad) | | SLAM | | | 2020 | [github](https://github.com/ivipsourcecode/dxslam) |
 | PL-SLAM(stereo) | [paper](https://ieeexplore.ieee.org/abstract/document/8680013) | feature(point, line) | stereo | SLAM | | yes | 2019 | [github](https://github.com/rubengooj/pl-slam) |
