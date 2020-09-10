@@ -44,11 +44,15 @@ This memo is organized for personal use.
 | Object-Plane SLAM |
 | CNN-SLAM |
 | CNN-SVO |
+| DynaSLAM | | feature(ORB-SLAM) + MaskRCNN | mono, stereo, rgb-d | SLAM | yes | yes | 2018 | [github](https://github.com/BertaBescos/DynaSLAM) |
+| Co-Fusion | [paper](https://arxiv.org/abs/1706.06629) | | rgb-d | SLAM | | | 2017 | [github](https://github.com/martinruenz/co-fusion) |
+| Maskfusion | [paper](https://arxiv.org/abs/1804.09194) |  object-aware, semantic(MaskRCNN) and dynamic RGB-D SLAM system | rgb-d | SLAM | | | 2018 | [github](https://github.com/martinruenz/maskfusion) |
 
 To do...
 - input: stereo, rgb-d, inertial, fishehe camera
-- feature(point, line, ...), direct, ...
-- deep learning based
+- feature(point, line, ...), direct, semi-direct, ...
+- deep learning based ...
+- dynamic environments ...
 
 ## Datasets
 | Title | Paper | Year | datasets |
